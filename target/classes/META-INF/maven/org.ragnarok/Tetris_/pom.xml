@@ -3,11 +3,11 @@
   <groupId>org.ragnarok</groupId>
   <artifactId>Tetris_</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <url>https://github.com/Sergio225/Tetris_</url>
   <name>Tetris</name>
   
   <build>
   	<finalName>${project.artifactId}</finalName>
-    <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
